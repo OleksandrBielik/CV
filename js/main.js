@@ -9,9 +9,9 @@ const skills = {
 
     html: "70%",
     js: "70%",
-    vue: "50%",
-    git: "60%",
-    github: "60%",
+    vue: "60%",
+    angular: "60%",
+    typescript: "60%",
     teamwork: "90%",
     responsibility: "100%",
     selfmotivated: "100%",
