@@ -204,8 +204,17 @@ body {
 
 }
 
-.description li:not(:last-child) {
+.description li {
+    padding: 10px 0;
+}
+
+.description span {
+    display: block;
     margin-bottom: 5px;
+}
+
+.description a {
+    display: block;
 }
 
 
