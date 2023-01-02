@@ -204,6 +204,10 @@ body {
 
 }
 
+.description li:not(:last-child) {
+    margin-bottom: 5px;
+}
+
 
 .description__company h3{
     text-transform: uppercase;
